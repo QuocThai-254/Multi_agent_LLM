@@ -1,0 +1,7 @@
+[
+    {
+    "model": "./models/Llama-2-7B-GGML",
+    "api_type": "open_ai",
+    "api_key": "NULL"
+    }
+]
